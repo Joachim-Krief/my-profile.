@@ -105,11 +105,6 @@ button:hover, .button:hover {
     background-color: #B1D3C2;
 }
 
-.container {
-  width: 700px;
-  margin: 0 auto;
-}
-
 @media (max-width: 960px) {
   .container {
     width: 700px;
