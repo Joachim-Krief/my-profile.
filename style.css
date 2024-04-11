@@ -104,3 +104,32 @@ button:hover, .button:hover {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
     background-color: #B1D3C2;
 }
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
+
+
+
+
+
+
